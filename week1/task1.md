@@ -5,7 +5,11 @@ The objective of this task is to implement a basic edge detection algorithm usin
 - Convolutional operations with predefined kernels are widely used for tasks like edge detection. In this task, you will explore the concept of convolutions and kernels to implement an edge detection algorithm.
 - Your task is to implement an edge detection algorithm. You may use predefined kernels like the sobel/scharr/feldman or any other operators of your choice. You will apply convolutions with predefined kernels to detect horizontal and vertical edges in a given image.
 - The results should be something like the following:
-  ![[mario.png]]
+
+<p align="center">
+  <img src="https://github.com/qu-bit1/style-swap/blob/master/week1/mario.png" />
+</p>
+
 ### Deliverables:
 - **DEADLINE - 15/05/2024 EOD**
 - A github repo with a directory named `week1` consisting of the following:
