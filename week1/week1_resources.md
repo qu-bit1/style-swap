@@ -13,3 +13,7 @@
 - [Video tutorial for PyTorch](https://www.youtube.com/watch?v=pDdP0TFzsoQ&ab_channel=PatrickLoeber)
 
 The above resources are expected to be done by 15th May and then there will be a task based on the provided resources to check your understanding.
+
+Additional material added later do take a look if you have time:
+- For those comfortable with [video resources](https://drive.google.com/drive/folders/1DjqsxT-AA9KHe2sKXznG_cvR9FchIgr6)
+- Chapter 9, [Conv. Nets](https://www.deeplearningbook.org/)
