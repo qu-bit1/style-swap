@@ -4,7 +4,8 @@
 In this task you'll use GANs to generate 'photorealistic' images on the dataset of collection of pokemon sprites obtained from [pokemondb](https://pokemondb.net/sprites). Borrow the convolutional architecture from the deep convolutional GANs (DCGAN) introduced in this [paper](https://arxiv.org/pdf/1511.06434).
 
 For downloading the dataset use the following link:
-http://d2l-data.s3-accelerate.amazonaws.com/pokemon.zip
+~http://d2l-data.s3-accelerate.amazonaws.com/pokemon.zip~
+https://drive.google.com/file/d/1LvXH0NLp-jwI2FVkl9HgH6urv64xA0Jq/view?usp=sharing
 For your ease it is recommended to write a download and extract function in the code itself which will use this link to download the data.
 ### Rules
 - The code should be in pytorch.
